@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/ IGNORING THIS SINCE WE USE lib/ in projects
 lib64/
 parts/
 sdist/
