@@ -1,5 +1,6 @@
 from network import WLAN
 import machine
+import time
 
 # Connecting to the device
 def ap_create():

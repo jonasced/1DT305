@@ -1,0 +1,27 @@
+{
+	"wifi": {
+		"ssid": "Dazzlewifazzle_5G",
+		"passowrd": "somany_memes666"
+	},
+	"pybytes_autostart": true,
+	"username": "jonas.cederberg@gmail.com",
+	"cfg_msg": "Pybytes configuration read from /flash/pybytes_config.json",
+	"server": "mqtt.pybytes.pycom.io",
+	"lte": {
+		"apn": null,
+		"cid": 1,
+		"reset": false,
+		"carrier": null,
+		"band": null,
+		"type": null
+	},
+	"ssl": false,
+	"device_id": "7188e1d3-0201-40f3-a5f4-2af8ab8142ef",
+	"network_preferences": ["wifi"],
+	"dump_ca": false,
+	"wlan_antenna": 0,
+	"ota_server": {
+		"port": 443,
+		"domain": "software.pycom.io"
+	}
+}
