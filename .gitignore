@@ -1,3 +1,7 @@
+# Added on Arjuna:
+*keys.py
+*config_*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

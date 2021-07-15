@@ -1,7 +1,10 @@
 
 from _pybytes import Pybytes
 from _pybytes_config import PybytesConfig
+import sys
 import keys
+
+print(sys.path)
 
 conf = PybytesConfig().read_config()
 pybytes = Pybytes(conf)
